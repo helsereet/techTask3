@@ -1,0 +1,14 @@
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\bin\Debug\netcoreapp2.2\TrainRoutes.deps.json
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\bin\Debug\netcoreapp2.2\TrainRoutes.runtimeconfig.json
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\bin\Debug\netcoreapp2.2\TrainRoutes.runtimeconfig.dev.json
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\bin\Debug\netcoreapp2.2\TrainRoutes.dll
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.csprojAssemblyReference.cache
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.csproj.CoreCompileInputs.cache
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.RazorAssemblyInfo.cache
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.RazorAssemblyInfo.cs
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.AssemblyInfoInputs.cache
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.AssemblyInfo.cs
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.RazorTargetAssemblyInfo.cache
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\bin\Debug\netcoreapp2.2\TrainRoutes.pdb
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.dll
+C:\Users\Kisan\source\repos\TrainRoutes\TrainRoutes\obj\Debug\netcoreapp2.2\TrainRoutes.pdb
